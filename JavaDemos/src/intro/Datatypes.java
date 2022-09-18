@@ -1,6 +1,6 @@
 package intro;
 
-public class datatypes {
+public class Datatypes {
 
 	public static void main(String[] args) {
 		double sayi = 10.6;
