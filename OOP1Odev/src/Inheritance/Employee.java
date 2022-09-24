@@ -1,6 +1,6 @@
 package Inheritance;
 
-public class Employee {
+public class Employee extends Person{
 
 	double salary;
 
