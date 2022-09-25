@@ -1,4 +1,4 @@
-package AbstractClasses;
+package abstractClasses;
 
 public abstract class GameCalculator {
 	public abstract void hesapla();

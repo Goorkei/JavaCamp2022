@@ -1,4 +1,4 @@
-package AbstractDemo;
+package abstractDemo;
 
 public class CustomerManager {
 

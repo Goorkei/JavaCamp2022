@@ -1,4 +1,4 @@
-package AbstractDemo;
+package abstractDemo;
 
 public class SqlServerDatabaseManager extends BaseDatabaseManager{
 
