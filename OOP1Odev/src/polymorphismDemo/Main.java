@@ -1,4 +1,4 @@
-package PolymorphismDemo;
+package polymorphismDemo;
 
 public class Main {
 
@@ -11,7 +11,7 @@ public class Main {
 		 */
 
 		CustomerManager customerManager = new CustomerManager(new DatabaseLogger());
-		customerManager.Add();
+		customerManager.add();
 	}
 
 }

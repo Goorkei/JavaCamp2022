@@ -1,4 +1,4 @@
-package PolymorphismDemo;
+package polymorphismDemo;
 
 public class CustomerManager {
 	
@@ -9,8 +9,8 @@ public class CustomerManager {
 	}
 	
 	
-	public void Add() {
+	public void add() {
 		System.out.println("Müşteri eklendi");
-		baseLogger.Log("Ekleme gerçekleştirildi.");
+		baseLogger.log("Ekleme gerçekleştirildi.");
 	}
 }

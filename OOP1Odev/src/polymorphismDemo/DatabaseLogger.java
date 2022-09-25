@@ -1,7 +1,7 @@
-package PolymorphismDemo;
+package polymorphismDemo;
 
 public class DatabaseLogger extends BaseLogger {
-	public void Log(String message) {
+	public void log(String message) {
 		System.out.println("Logged to databese "+message);
 	}
 }
