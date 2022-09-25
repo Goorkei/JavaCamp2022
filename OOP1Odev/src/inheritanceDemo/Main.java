@@ -1,4 +1,4 @@
-package iheritanceDemo;
+package inheritanceDemo;
 
 public class Main {
 
